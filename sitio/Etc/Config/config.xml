@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<config>
+	<app>
+		<key>68A075B344FB1D0D6DC6121B6EBE1DA2</key>
+		<name>ivanmiranda.me</name>
+		<company>sincco.com</company>
+	</app>
+	<front>
+		<url>http://ivanmiranda.me/</url>
+	</front>
+	<bases>
+		<default>
+			<host>localhost</host>
+			<user>ivanmiranda.me</user>
+			<password>VjTJuBd9wtFchg6PkSwDoGxBJ2iwKsCLiAPuWxh8TgI=</password>
+			<dbname>ivanmiranda.me</dbname>
+			<type>mysql</type>
+		</default>
+	</bases>
+	<dev>
+		<log>1</log>
+		<showerrors>1</showerrors>
+		<showphperrors>1</showphperrors>
+	</dev>
+	<sesion>
+		<type>DEFAULT</type>
+		<name>ivanmirandame</name>
+		<ssl>0</ssl>
+		<inactivity>60</inactivity>
+	</sesion>
+</config>

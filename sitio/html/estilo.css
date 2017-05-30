@@ -1,0 +1,252 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Ubuntu', sans-serif;
+  color: #555;
+  font-size: 16pt;
+  line-height: 1.5em;
+  position: relative;
+}
+.navOpen {
+  overflow: hidden;
+}
+.wrapper {
+  transition-duration: 0.5s;
+  transition-timing-function: swing;
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  padding: 30px 40px;
+}
+.wrapper.open {
+  transform: translateX(250px) translateY(50px);
+  -webkit-transform: translateX(250px) translateY(50px);
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+}
+.wrapper section {
+  max-width:  100%;
+  margin: 0 auto;
+}
+.wrapper footer {
+  max-width:  100%;
+  padding-left: 50px;
+}
+.wrapper section img {
+  width: 40%;
+  float: right;
+  padding: 0.5em;
+  border-radius: 2em;
+}
+.wrapper section h2 {
+  font-weight: 300;
+  font-size: 2em;
+  margin-bottom: 10px;
+  color: #0B6B94;
+}
+.wrapper section h3 {
+  font-weight: 300;
+  font-size: 1.3em;
+  margin-bottom: 40px;
+  color: #98A5AB;
+}
+.wrapper section h5 {
+  background-color: #E9F9FF;
+  padding-left: 1em;
+  padding-top: 0.2em;
+}
+.wrapper section p {
+  margin-bottom: 40px;
+  text-align : justify;
+}
+.wrapper section a {
+  text-decoration: none;
+  color: #1278A2;
+}
+.wrapper .header {
+  display: inline-block;
+}
+.wrapper .header h1 {
+  padding-left: 50px;
+  font-size: 0.9em;
+  float: left;
+  text-shadow: 2px 2px #CCCCCC;
+}
+.wrapper .header h1 span {
+  font-size: 0.7em;
+  padding-left: 1em;
+}
+.wrapper h2 {
+  padding-top: 1.5em;
+  padding-bottom: 0.5em;
+}
+.wrapper .tags h2 {
+  font-size: 1.5em;
+  color: #555;
+  padding-bottom: 0;
+}
+.wrapper .tags p {
+  line-height: 1.5em;
+}
+.wrapper .tags a {
+  background-color: #0B6B94;
+  padding: 0.3em;
+  text-transform: uppercase;
+  border-radius: 0.5em;
+  text-decoration: none;
+  color: #fff;
+  font-size: 0.8em;
+}
+.wrapper .resultados {
+  max-width:  730px;
+  margin: 0 auto;
+}
+.wrapper .resultados div {
+  display: table;
+}
+.wrapper .resultados img {
+  width: 25%;
+  float: right;
+  padding: 0.5em;
+  border-radius: 1em;
+}
+.wrapper h1 {
+  font-weight: 400;
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+.wrapper .resultados h2 {
+  font-size: 1.5em;
+  color: #555;
+  padding-bottom: 0;
+}
+.wrapper .resultados h3 {
+  font-weight: 300;
+  font-size: 1.3em;
+  color: #1278A2;
+  margin-bottom: 0.5em;
+}
+.wrapper .resultados h4 {
+  font-weight: 300;
+  font-size: 0.7em;
+  color: #98A5AB;
+  margin-bottom: 0px;
+}
+.wrapper .resultados p {
+  margin-bottom: 10px;
+  text-align : justify;
+}
+.wrapper .resultados span {
+  font-size: 0.8em;
+}
+.wrapper .resultados a {
+  text-decoration: none;
+  color: #1278A2;
+}
+.openNav {
+  transition-duration: 0.5s;
+  transition-timing-function: swing;
+  width: 50px;
+  height: 50px;
+  background-color: #0B6B94;
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 9;
+}
+.openNav:hover {
+  cursor: pointer;
+}
+.openNav .icon {
+  transition-duration: 0.2s;
+  position: absolute;
+  width: 30px;
+  height: 2px;
+  background-color: white;
+  top: 24px;
+  left: 10px;
+}
+.openNav .icon:before,
+.openNav .icon:after {
+  transition-duration: 0.5s;
+  background-color: white;
+  position: absolute;
+  content: "";
+  width: 30px;
+  height: 2px;
+  left: 0px;
+}
+.openNav .icon:before {
+  top: -7px;
+}
+.openNav .icon:after {
+  top: 7px;
+}
+.openNav.open {
+  transform: translateX(250px) translateY(50px);
+  -webkit-transform: translateX(250px) translateY(50px);
+}
+.openNav.open .icon {
+  background-color: transparent;
+}
+.openNav.open .icon:before,
+.openNav.open .icon:after {
+  top: 0;
+}
+.openNav.open .icon:before {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+.openNav.open .icon:after {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+nav {
+  background-color: #0B6B94;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+nav ul {
+  width: 250px;
+  margin-top: 50px;
+}
+nav ul:hover li {
+  color: rgba(255, 255, 255, 0.5);
+}
+nav ul li {
+  transition-duration: 0.25s;
+  display: block;
+  padding: 5px 40px;
+  color: white;
+  letter-spacing: 0.02em;
+  text-align: right;
+}
+nav ul li:hover {
+  cursor: pointer;
+  color: white;
+}
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+nav ul.social li {
+  font-size: 1.5em;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+pre {
+  background-color: #ddd;
+  overflow: auto;
+  padding: 1em;
+  border-radius: 0.5em;
+}

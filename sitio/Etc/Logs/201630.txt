@@ -1,0 +1,2110 @@
+072561957::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: 8vl5n83be2saivij5q0adp9ohml8u4mnhq7jah7p4mtk2bakge16bbohkh4s641on02ltqrcp4ab56ten0tj34u1e04ek4il2k429v1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 6ef1e751d0d4e2aa7054dc83f3ea2158
+IP: 66.102.6.151 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072561957::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: kh0e38f79jkfs1vscps5r9thrrh9s9ltpljb6lotosp7qsnh0heh3o271n9nsvbv26r5p23tk5ip1ua5nm5dgsq8kq2qqqi633s8a21
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = b6f0bb5b4c92529fe88e264ef616890e
+IP: 66.249.83.219 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072561957::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: 79t4mi3c2448i9iur0o23ck0v6gcf06p2b9md0c3adgbndar0fjf96f4rp2rqs8kc8l0e7g9ldqrqdfhumkt4poqkdh5h8r6egi7tf2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 74e853c6722b5ce054aaa7a4aceaf8e9
+IP: 173.194.95.98 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072580452::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/quees
+SESSION: 
+-->id: 10utn8ekljsgpcc58pvv6bv1dpm0mu8hv5enpgh56uc954riidplf83ci9laf2tqbbl9cf734eoai5rd1s6gv4niuiv44c4k404dh52
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 7c6db64f8a14e15a6dc89d1b4e453c00
+IP: 86.62.162.117 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072580454::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/tip
+SESSION: 
+-->id: vcnfg6o1457v69jr8tglqgossq3hkabgvbkintvqj2752sdha053pstb650kdmltlu63rrlj7l5r5lak37u0pdf4rmj7r8oe7kv8ri2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 7c6db64f8a14e15a6dc89d1b4e453c00
+IP: 86.62.162.117 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072590507::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/tip
+SESSION: 
+-->id: j838tdjvnmupa1mnmi10cvnh2c258989kl43uqgpserqvn8ouqj4a0rrmn6uqrtp27gte2673s330ms4eq0ok2nthgleudsr93gnvo1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = b1ab21212e75b247c36757d04ecb23ed
+IP: 66.249.65.148 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072593104::La clase Controladores_Musica no existe :: Controladores/Musica.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_M...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_M...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/musica/escucha/1043dc9f153422a9f246c67c478fc8c4
+SESSION: 
+-->id: d7sjc06dm465hc0a2bpj52mjjmrqas2n7uf016a8lm20p4tmbmsfbsnq5inekt80a2q212svu9tlar1rg2pc2mt0o5g9oq2rd7mfmp1
+-->data: 
+-->-->__browser = Google Chrome
+-->-->__token = 45251f1075ec025190589140afbccc0a
+IP: 66.249.65.152 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725123025::La clase Controladores_Musica no existe :: Controladores/Musica.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_M...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_M...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/musica/escucha/1043dc9f153422a9f246c67c478fc8c4
+SESSION: 
+-->id: u9mqn4akajjpj549i04phk7p2gmsh2kuib621ttr72vh0tkvk0n0g3o87i0qilvnrhebodmoelpi26e9nv9vah7dg5cbfb4e0eq2ao2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 2cb762ed304c73c23bccbb8a85d0cf3f
+IP: 66.249.65.144 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725191247::La clase Controladores_Musica no existe :: Controladores/Musica.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_M...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_M...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/musica/escucha/1043dc9f153422a9f246c67c478fc8c4
+SESSION: 
+-->id: o4p70150027cnu8rbtej28iiaoav9seqg9cbt297crdh83ett0kmbfglu8ri0ujutv1c2gipilmvo7p44bhjud4s5ra2s3tjbb12im3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 32ffd05f4ebea2de024e205cbd5cd7ef
+IP: 69.30.198.178 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725212453::La clase Controladores_Musica no existe :: Controladores/Musica.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_M...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_M...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/musica/escucha/1043dc9f153422a9f246c67c478fc8c4
+SESSION: 
+-->id: dubacqf12oanqnr5oa889sl9in82jga8bkbnfeun5ed49pj7obr2sg4vd33ojb5j9ga0h5bglpebh23874b8b44h907jli3ou7lsts1
+-->data: 
+-->-->__browser = Google Chrome
+-->-->__token = 7103a7f4aa0731cbdcb7ad911b62c42b
+IP: 66.249.79.160 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214323::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/apps
+SESSION: 
+-->id: n6ul33a0j6q3jcmdijqjfl75mr0gukv928v28p7uagbnto8dbl97o6o8fcf1fegg88dtpivcdc53iavcj6kraej3e3fttcifjn7se31
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214324::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/avanzado
+SESSION: 
+-->id: j0pvh382g806t112bhugmarq1llmq86e14eja412j051vlenbsd88345jpkq6oqtbngnntbk17gp2nn3e5n6e7kvcoqllp8f51fgmf3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214326::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/basico
+SESSION: 
+-->id: 3qd0i7eod42vojiqsotund1oimv8hgfpggm81bdtjst81lfque04krbvpruin0ldfq260i2ek5j7jccvlqvte836utjjo912hduvgs2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214328::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/codigo
+SESSION: 
+-->id: dsftf5gn2o55ogc9etiu0b9gf71s2qu1e29qaftl59soe31l5n3ck83rrvgo0ojlf2ujhr5q36j6grnun6kqk2p1dlpqnktn48njpb1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214330::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/cuento
+SESSION: 
+-->id: u91ue5pm7en6lrhhgq0ffsk8sdfa9gf6q05i3tlps4b8llg1ko05olvke69qlg71qv2qk97nd7i5ok0qqamrhu866bpcink34blpg02
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214331::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/dba
+SESSION: 
+-->id: 42aq384j3ed6l27k8edq3bhpit410q1pu9b2jqo1drq5bbgfm07l4vs7s007bbffr62140ifte6cl7402rlm5d8p8io8q5a02r0bio2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214333::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/desarrollo
+SESSION: 
+-->id: qfe499be47lvkpl2nptha7248md3bejc9q0g16t0jthuvam5m7d80kv10qrallip2s1143t3f0hfplr3tq5d6vj01o6c7othsrk9012
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214335::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/estructura
+SESSION: 
+-->id: n93kke94cjlft624ngd2qclp0908nll6b5voc3gefb5572mkvoehpm3h5es0lonu9o5mnni93gr35bf5jf7ugn5isnqdlq49tqs8tf1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214336::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/git
+SESSION: 
+-->id: 3o0l6ollal2138df56s6hdj2aegrq7tlmutemd0a2kqm8jdighcsn4p758pbki4p3s6orl6rlp91fnpi86gnd8upns09hmir0qedak3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214338::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/guia
+SESSION: 
+-->id: md8p1kb65oigbr23esekk99soqqefrbrachebg2p81jv4ds3vsegbtsvfo0oi8nv0ckom1grrgu465tk0p0map0sseqo9spus2rhhe3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214340::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/html
+SESSION: 
+-->id: 4f6ng2nsfle3j7sbp4jkva4k52d309aebg3cev5gfj9en78n392ts9airrfo8nv98n2331le2lapnhqh1ovoggk8hso805s5vu1c5v1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214341::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/linux
+SESSION: 
+-->id: lik0omba5lm7fv8cjus959l6ip2dh442u49fnorpl4hjqg6o4444b744mc7kv3b7ed1uqhlq49e20h4671jc7rq87ipuq6caikckeg0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214343::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/musica
+SESSION: 
+-->id: hfgum6fmpsmjgpsl0uolljqaafjtl4r69h3b6031hlovlqthbclb0sru2t7f1tp24u39kfn6va4fn5fl241mebjuc25req0mjvrpr20
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214345::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/nodejs
+SESSION: 
+-->id: 4se4bqo1qmtqk380skd408f68risjquomfq72mqt4s8m71i9jlikb2dgvv1256duh8j3jpp24f19vs9plrn8ol7mr4s972obia3v5q1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214347::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/nogeek
+SESSION: 
+-->id: 9oks5c7s4tg2k1025ta7r1dafd24bv58ot9aerueka6s1taaqiv2uhe2t7nn88bkujnskn1vdrurq872hfiupd4kuvrjji5njqk6nb0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214348::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/nogeeks
+SESSION: 
+-->id: 2k4l3nr0id2n9luc5fsealrlmv522g24qrgg3of20j2qh3iifv4qmqucabpe1u4l6e4s32rid56lirpv3nf0o229irvb9eh4210bmg3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214350::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/nube
+SESSION: 
+-->id: sh7b393sjoij4cvhsop14na6urgpf221tt1tb3ds3v47vutp5sjvkmn5naai05g9rgq8mda8jd9rj8s339dcojdatub28a0l346dbp2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214352::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/ph
+SESSION: 
+-->id: jbdja9shc9lak73v2bbuv35f3lfd8ghqcblg4ssalobi9h4hg4rqgu98h5gu6u294d6m3s744o48n3ahqgh7jt5sevlt1pk28of8f40
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214354::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/php
+SESSION: 
+-->id: bhckav0rai951pmdki8oae3siehjjsmeg3inbrtsvvb9vva6839i9ctrm04kflk1b2ni11dnaiu2jitnlc66mc5dfm7gvkoa93k6k42
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214355::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/quees
+SESSION: 
+-->id: uohrcoli6qkga5enkj4rq6gbkkvvom1e5n9km3n2d1iiabi0fmv70jahhenh7m9ndin89o3nb31m54nplsadoe415svk7cqq60vjtc1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214357::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/tip
+SESSION: 
+-->id: pr82p2muqsjcim2hf96hhmqanbnbco225aqf65tbihf6iibokr7lhc4j6m6o50qjira538gauvf753javm3d3rug3dc9rr3mdh9okh2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214359::La clase Controladores_Musica no existe :: Controladores/Musica.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_M...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_M...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/musica/escucha/1043dc9f153422a9f246c67c478fc8c4
+SESSION: 
+-->id: mr46k2cmdaonp2mc9rtfjl0g4fa9k35lrkhel4p9sjtu28c9e29f24q9oeq9u302guf5b3qfvam5q3tjsjhdo47li5mj0gare9hvsj2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725214401::La clase Controladores_Musica no existe :: Controladores/Musica.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_M...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_M...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/musica/escucha/25440ab49b64c227d003f337c18dcfb3
+SESSION: 
+-->id: l1ndf6i0o7evgrm8ip5coa9lftsa85bon59kgjclml31qtd9gapehid80ef4c9fdo0rekmrjikca29as5omnn210uqsctu28r8vjpc1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a64f001859e4bf0942b1266ab9c3798d
+IP: 5.9.85.4 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0725222941::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/banner.jpg
+SESSION: 
+-->id: kdu5rvjsckojat0tknmcnitus0mbn1j6hu9n6qkepi2ishqcdqcami72s9p46sej1ub1v0ktg9uci8nms3cp5g61t2ipgdt62f0rfk2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 65818ef3fe8fec21eee76c4098752889
+IP: 93.158.152.14 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072641138::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: e2a5ds3fegeqp26ql783llhk5jr6vj7p96mohavdhj5qifogqqt1a7j6iut4m6tghs7o6iksqtc6kie9qqk7c4mn28rpu9hggi7u4m1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 367f6eb3ec231c20f3938e955ff434e4
+IP: 199.59.148.210 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072651959::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: n8g8thgbafv8g2m39fk0mq5h95jqj9lp4msjfpug8b27eh3ss2er6cndhqr4hm2jd731oieg8oqlc9m29gso9o7m8i1iuc20ir866v3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 42d97cba32c9a7027627ea04ec4a79d9
+IP: 66.102.6.155 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072651959::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: r7qgg08ooq8uuib7eopnl7topi23qksf5i5lhkds9j77noijuck7nd3oi1h9sae3j08outrq1l1rvdh44a7rm71v7bg7emlee9ucpf0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = b6f0bb5b4c92529fe88e264ef616890e
+IP: 66.249.83.219 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072652000::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: 8e2siaj27uhfiispqubhtdkg3go5moq5rhhst4ag5uk112smickc5uslhvin82uhlleo38e0vj1a8b292mdgv84uf4ju29pn742q3l2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = f2b902d66a055f80c1c309c47b6290d4
+IP: 74.125.113.32 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072652609::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: te0mfqub8vhkhlar0h8g7bgb7b421l8v8ds78h859g5sgfhmu4306v1v9dfjuqvgssdc0122tcjhe5ima40k5eu6tt4vm24eo431ie0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 367f6eb3ec231c20f3938e955ff434e4
+IP: 199.59.148.210 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072654932::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/basico
+SESSION: 
+-->id: cfkqqsh312u96c7sog6edacdqhque0o015prrbtlul315ehrmtvfirhosggcui0qemkftijgq1v72hk5dn7bpbn1uibdjpdjftirqp2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = ad4a0aa88291f2e3b8c47645dadd7641
+IP: 66.249.79.152 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072693438::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: 58fn1d1k788ev3o36kmmorkafdjsv77rsbd6ar390pfangombq37r948fmhqrgbngg28bpc165h21emj0q0sksqg3029pbu0o2aqgp2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = b56cc4631e7ced58c0e462c697eb2fd6
+IP: 74.6.254.101 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0726100854::La clase Controladores_Magmi no existe :: Controladores/Magmi.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_M...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_M...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80//magmi/web/download_file.php
+SESSION: 
+-->id: bfshk60q1muqr6aj3skpgr2dul3mtn0seu8p229pg7l2obo53t2sodc3pl84t8u9h0vfg8r2hpq7us29rh21kvnq4hrq54iln5gelg2
+-->data: 
+-->-->__browser = Mozilla Firefox
+-->-->__token = b5d483de2a1b3cb6aa96f346ac7323ac
+IP: 8.26.21.61 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0726100854::La clase Controladores_Magmi no existe :: Controladores/Magmi.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_M...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_M...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80//magmi/web/download_file.php?file=../conf/magmi.ini
+SESSION: 
+-->id: 2uiq6962c5ntqm49n5n8gnf822cu99ukq7n5djcor1qe3ihkesufl5p4fi0qportmhdkhcvcjr9cls3el2knk51frhqhgcp8fb3ht72
+-->data: 
+-->-->__browser = Mozilla Firefox
+-->-->__token = b5d483de2a1b3cb6aa96f346ac7323ac
+IP: 8.26.21.61 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0726152121::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: qtbdmdjpmgu4l33u26rtp3cbummbo568m716r20asc3a70prb89uajbhrnbplefr94quqibv2fbfggfdg0a83uvv761euajgph0pl11
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = b56cc4631e7ced58c0e462c697eb2fd6
+IP: 74.6.254.101 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0726203040::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/tip
+SESSION: 
+-->id: ufah79146i8bkja1hsrnpr36vlf52bnh1mg48e76c883jco1i2b3fph25rcmilisup2ukkc6t78k1ou0i0dde9rm59olpanpcpg13c1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = c946604ef92a770d10ac88de708d62a5
+IP: 157.55.39.117 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072700348::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/linux
+SESSION: 
+-->id: jbnnuq2h16m5bhqtvv256nmcmjaq4a325uppfun3lredebm4s1kthkajklvkr2n3hqclqpllpmbebgb6tf0056h15sp3g676543uf32
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = c946604ef92a770d10ac88de708d62a5
+IP: 157.55.39.117 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072723430::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/apps
+SESSION: 
+-->id: ssikpphhfgubql8gkdi5973p0g2v4k1imookd4gsftkrspgbl7an80cku6efdksbqq5leiiqs7i445ou6up254taqunda08hulqsm60
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 86e3ce08d66b19636b8c5d417eb1d399
+IP: 209.126.127.49 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072723444::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/php
+SESSION: 
+-->id: bvbral6pl47df4qo7lblomld3fecmt362tfrkttf4vmldnfrklh6g96779jd87eo3gp2enmrnafas88mq79r4t567inc800kk364710
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 84c64fe7adf5d3590f6e6f47eb13f4b5
+IP: 209.126.127.49 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072741956::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: e6lgedpd4q91an3rp60625f6lmn0glsdue8cqcojge3ao9g7rafjcmhkdv7urhqjf7idpjkc1581htlslr0knhpicnjpjv7cpfopj93
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 42d97cba32c9a7027627ea04ec4a79d9
+IP: 66.102.6.155 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072741956::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: ac5ghmvgbq5a2pjar9ig0een48l5upo2b6s9prcajps4rhftr93v7c4b82jq72j1qsmlb7cpgl5scj5a5m0naav2j2fctr6lbfuqek0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 243e09cc534e17fa766ac48a3ec0b3c4
+IP: 66.249.83.211 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072741956::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: v63aqjmc3e5le71mtslpkdotukiph366ru3pkb667fb970ardpejlsoia63o19kdpt1r7jrqsnauj5t5hg55uak92v65avhu5ed0ma2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 611a3e4c0065d335b9c452fe0f2de7e9
+IP: 173.194.95.160 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0727105657::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/apps
+SESSION: 
+-->id: 52i1tti33f0a3qqs638l4har5jodpf2v7fshbp0acb4t3hpruh7i5cq8ts85feqeq7p494jbd4jcd0sv2ovo2h9v2c7s0b19nr115o2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = b15b491a86095d71f99be1924e6d718e
+IP: 91.194.84.106 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0727105659::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/php
+SESSION: 
+-->id: 7hhpqr700vuhb2u2qmai1sp268hh8p5jlgr7ngehnbrg80l3fs8j6thfo4s2a1rqq4iumceqnp0qnh1lpso6bfaiove1poa90cmqb92
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = b15b491a86095d71f99be1924e6d718e
+IP: 91.194.84.106 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0727105704::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/php
+SESSION: 
+-->id: b0t9isja5rkm65554uvevv7ne5gl43rb2d4n77a5le3gi6h6ehpmfprmj9lk9650063vseuimgfp0lhh9tl4hormvd89fcj847fb1m1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = c677187b9ba75aaeb91aea5db3ba6ffa
+IP: 91.194.84.106 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0727105709::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/quees
+SESSION: 
+-->id: bhnukpr94m39ku6a34sq5qnbol64vfdeo6ma8r5m5t2ql7vmnecdhvjqqv0rao2j42jgfrokmqhpv4a7vmnaecme3tk705okd3jea33
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = b15b491a86095d71f99be1924e6d718e
+IP: 91.194.84.106 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0727105712::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/tip
+SESSION: 
+-->id: 7isciv7gs3jgbq0ggi5sfib6le2geonr4l5id6u4kdboc4j4ni0jhoansjdlv9t9he3c6djib99uevvbts0sjjvh1ojtimn7go5js20
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = b15b491a86095d71f99be1924e6d718e
+IP: 91.194.84.106 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0727132234::La clase Controladores_Modules no existe :: Controladores/Modules.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_M...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_M...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/modules/up.php?up=hous
+SESSION: 
+-->id: i69l8kp426haf47cif33v6ndvhbhhf2npge1ip0bkj9a3l5g2nmhbid92rgpl9d6u6rur2n7gb8qtc8887soscb7hj1jc02mupnstn2
+-->data: 
+-->-->__browser = Google Chrome
+-->-->__token = 67cc22fc8b1944c7e00aaddde29dae3a
+IP: 62.210.162.209 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0727144636::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/quees
+SESSION: 
+-->id: 5jkvup5tq501k4rv9pk1lvv3jmbns9ru2vlubcnbcssl1jo9s90b1tmhgfvdggbalbugt1t5e60ikgf3133kuccem4uebtibrr20jk2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 4987761c507df0c6de00c65ea5a75a95
+IP: 89.163.148.22 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0727144637::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/tip
+SESSION: 
+-->id: frlpgjqot3ddu6kmuje60992sv9s0uvausgq1ppt8t7orab4ejqgvuj2nj32sm0k4lato1lcnj0k24jul27hbkdj6gejjotpkcr8080
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 4987761c507df0c6de00c65ea5a75a95
+IP: 89.163.148.22 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0727150923::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: pkufesb8hf5p3g7j20obm9j2m9irv875cmalp3ar4mmlb9s50dbkldfgogaagslbsfngc3759cuhfth9r3f6cs0830qdlt1r2285bf1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = f25ac7f98c1660e822e3451e930ea682
+IP: 199.16.156.124 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0727153058::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/banner.jpg
+SESSION: 
+-->id: 2sq71vq7gm39tgtgs9456irsl8gf8djeipgu3v9vd1076087kpi2pek0jmbspggj9ld55vmg0acfa16laia1718luit6gtipqu9lff0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 7741a3ddee3e35abd1a34650800f8ee1
+IP: 108.174.5.115 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0727181804::La clase Controladores_Musica no existe :: Controladores/Musica.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_M...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_M...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/musica/escucha/1043dc9f153422a9f246c67c478fc8c4
+SESSION: 
+-->id: sh116j7skcgfih2v12nu2hlktec84ois225bpfsu0ol0rekkn2cqftqiee6f15c8pnlmn4a27he2k9kmkp934tsvfgibtnlc76pdo62
+-->data: 
+-->-->__browser = Google Chrome
+-->-->__token = 02d044ec5fc9c6601341585ab4088884
+IP: 66.249.65.148 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0727213250::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/avanzado
+SESSION: 
+-->id: fnncfltr53m9jmbjvqrmv0j60tv9oa9o05gr0bki96lqjqlsd74ubpupntonj9ogr3e2kjnou4j1iro84idpmhfkjj6cpv2o3l4bvj3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 74844166b40d704d982fdb358dd0bae8
+IP: 157.55.39.213 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0727224529::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/tip
+SESSION: 
+-->id: 2un6cba2hbbmnpn0qra90ni110u16e5n82luboghf25s3hg8va67oc0o3pbl9o8dftpbe2b13g7lgq4g4h0lhvrsk1idrp5obhj95a1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 2cb762ed304c73c23bccbb8a85d0cf3f
+IP: 66.249.65.144 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072823802::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/quees
+SESSION: 
+-->id: 0gfv64tgep6u05gts7gim6fbhl28k1tk3njv9729bag0art589a0kp8r289dsusm0urfahoolsdelcr2at5c305plno3q8lu98ktbk1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 13fe92bd2b3289234ed82e7e1ae6b073
+IP: 157.55.39.221 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072831955::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: 1hi63vm93c59os7e5kje0ivdlv6l2kk4s4frqqm9f2sm5666lopos0nrpg7lcjiq0vdpavunhmvaoucardh3frlogasn6q7tpmu6813
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 6ef1e751d0d4e2aa7054dc83f3ea2158
+IP: 66.102.6.151 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072831955::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: a2hcsn4k3gqesfo9akfi49kn7uorehfadm0406am3ond461ceaveo8aibu4o6ugtlkc2r4jsi5lbooeccsg9u50roht306m7st5j3l2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 243e09cc534e17fa766ac48a3ec0b3c4
+IP: 66.249.83.211 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072831955::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: 2m42dh7vcms00q76mvng6d6tfipdcutvjlesvtt2dg52dobtmrfs074dubn167jtjn8q4b1c6hrm2ip7aq2gjjp04mkj0tuf1hm9441
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 61aac6bc6f9d0e0c9e309a1c98194c2a
+IP: 74.125.113.33 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072885356::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/banner.jpg
+SESSION: 
+-->id: 1mo3p99pi36elfd0mkmf6s362asv3r2c6g8q2h32tfu452hflaanhspo57oc8n49b7nl7rllkrs9t4kgq699713eovus1pm5tjecna1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 65818ef3fe8fec21eee76c4098752889
+IP: 93.158.152.14 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0728133742::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/basico
+SESSION: 
+-->id: e0br28b3k7v8rh5vaustr8nr31jptc9gh0aj6r7hkhuvpu55euoq16b7h555elev0cetjhah0a6dq8ek983rpmorcg1gaqggcaf1pt3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 9c6f2d79a5e602887d33aeab7a46bf67
+IP: 69.30.213.202 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0728133746::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/git
+SESSION: 
+-->id: l1nbevrumic4bofm5d4v0v61f4vk7ej9ehmtn5visk17le2vucim9q7q6qr7lhv7lkib0uit0oc956femb707gcou1f7hi5gdkrblc2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = c259fa06b72f2bbf004f4975472d8880
+IP: 69.30.213.202 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0728133759::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/guia
+SESSION: 
+-->id: tc3s4i51u6bsqrr920a6c2afj6epi1vmqtij914tc22fv44360golnnnnu08g6t4rrg8f29rss4skufi5k2sp8q262ltked16jaeh32
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 9c6f2d79a5e602887d33aeab7a46bf67
+IP: 69.30.213.202 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0728161753::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: ioqje6fki3jlt9pc6i2fpvjpd29n91p29c6pgh7s7kvnem377dd46qguo2843nf6bhhndfgauv8n0cav7torpgedl438udptbh60t50
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 367f6eb3ec231c20f3938e955ff434e4
+IP: 199.59.148.210 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0728210922::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: 49kbsmrm47uq7brdla45piqc6ncv89dsbv25qqdlsbrgsba8gbo10ja9tq6ibvjn10c97do98fufiqeh8la1eumpkkbjr45t77cfl63
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = f63ff395fe23e1596cbbfcb8d75086cc
+IP: 199.59.148.211 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0728222258::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: i8u6f4dcn8eibm9drfr7tu8p5nq9tiv2o5cci6uvglm0op5u0f445umn2jgbpv4qr70jojkgp7rceplh9na81bn3b06qgtsahal0k01
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 367f6eb3ec231c20f3938e955ff434e4
+IP: 199.59.148.210 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0728223240::La clase Controladores_Admin no existe :: Controladores/Admin.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_A...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_A...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/admin/Cms_Wysiwyg/directive/index/
+SESSION: 
+-->id: 6n9an26kti95kj3kcj1taoudoh9pb25nfcd1d5jv2aq4d9v8dsp43l9m467l5ah59us397pbvkos4qd5aoseerkicqrrqm2v94aecp3
+-->data: 
+-->-->__browser = Internet Explorer
+-->-->__token = d65557eb2cd66d7814d24feea05df874
+IP: 23.245.101.60 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0728223332::La clase Controladores_Admin no existe :: Controladores/Admin.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_A...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_A...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/admin/Cms_Wysiwyg/directive/index/
+SESSION: 
+-->id: 5kp5fkpumnf6s1tcbc994shr94fcqs77ae78fjakhsn1i6drt9s6r2a6s6r155rkrrrfqogu19ln9kqlklu7sgj2mlbv2vdpm0nlab0
+-->data: 
+-->-->__browser = Internet Explorer
+-->-->__token = d65557eb2cd66d7814d24feea05df874
+IP: 23.245.101.60 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0728223445::La clase Controladores_Admin no existe :: Controladores/Admin.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_A...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_A...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/admin/Cms_Wysiwyg/directive/index/
+SESSION: 
+-->id: l42m1geaqs55931u09466pnmo3k93c6rd8mfue6rk3eusq92sqb7s7qo4qtgt19i1f7p4a7a124clqrunkq8cmp54p7s5mant33u5b2
+-->data: 
+-->-->__browser = Internet Explorer
+-->-->__token = d65557eb2cd66d7814d24feea05df874
+IP: 23.245.101.60 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0728223524::La clase Controladores_Admin no existe :: Controladores/Admin.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_A...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_A...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/admin/Cms_Wysiwyg/directive/index/
+SESSION: 
+-->id: ceaoi6g721f2irt1grgnnq4keqbg636qa7r1ru20ca24ghhfqpnlt39ng3dl7he932pppqbqq68ada6datsef3gcreallhjb2ns4op3
+-->data: 
+-->-->__browser = Internet Explorer
+-->-->__token = d65557eb2cd66d7814d24feea05df874
+IP: 23.245.101.60 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0728223921::La clase Controladores_Admin no existe :: Controladores/Admin.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_A...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_A...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/admin/Cms_Wysiwyg/directive/index/
+SESSION: 
+-->id: 8ujsmslm119j5r5u2gngdqokifj1emoqspjpflame2vnq54sbf8d9vs3nupind744l17rt6rvmkno465b7re7t2mcgvefchkj6rtt43
+-->data: 
+-->-->__browser = Internet Explorer
+-->-->__token = d65557eb2cd66d7814d24feea05df874
+IP: 23.245.101.60 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0728234045::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: cu676us55udabu1bc8pqjivu5e1akaeg77k74ert96o7e2it0skeib7an370sg576vbg47jhouspphv79tt9gpu17imee8cq358hur2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 367f6eb3ec231c20f3938e955ff434e4
+IP: 199.59.148.210 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072902201::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: sdtv0kb15gj6raj4d718ud0q8sv073mmbc7lml4ejfrpvorclb27ivled5poh71r94gbama6863qvejogb5b9o48cko8526b9p73v72
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 367f6eb3ec231c20f3938e955ff434e4
+IP: 199.59.148.210 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072902201::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: m8oa8eco4piqefcs4lf9hgsbk2qn8es5alca623hjgv6kkk8t8tp0om0pqe74jgl6bungj10gi607bvtjug8uujdc5qp1bd8974g0f0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = c4ed4261c346a7fd973a01622e3d8063
+IP: 199.59.148.209 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072905943::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: dncr78b6el60ibdmqh1p8s64lhn3jg2mk0kfpt7hd0if4hcf3nhc2epjvref4ts97us9k8mu01a8b7ccmhhio0gkekrqsqqqte1m8b2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = c4ed4261c346a7fd973a01622e3d8063
+IP: 199.59.148.209 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072905946::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/%7Bpost_imagen%7D
+SESSION: 
+-->id: r3049dd1oclhtebfbnupdtfsrjg4u594ninp803jpht5otikjn5j0e4k3r4oe6spj5u7brfef46pkjh5oo3hi2k95l4c7hivka9oaf1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = d57b1cc8d7289baac1c4384185d2cf3a
+IP: 199.59.150.180 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072922007::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: c94q5klj74tf3imchdsg3as6qts9m5o83ramni4tbf6sg88376t90f3nbemuivlsnlhm9gvub81ra0cv871tp7m1vlf9suhbser4450
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = b6f0bb5b4c92529fe88e264ef616890e
+IP: 66.249.83.219 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072922007::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: l21e3md939gito27s3mhr0mbcua59gpp5p7v0uo80rb5cd3tmc0rierc3vd2nsoj7qsnj227d02lrfl8jgfe7fu4165342deng6jpk1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 42420875fe361aabf549bfe5bfb06404
+IP: 66.102.6.159 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072922007::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: i92v7rg1ih5atl1sf151aravihg0chupmft5n84lk0i3pgb5m8cc4ala3g8d51prrep00424teq999u1mapie1o9jepqgu2senibqs3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 3628bd4c95500d6e5bc8caed783ba944
+IP: 74.125.113.34 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925352::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/
+SESSION: 
+-->id: s6he795spls2dpqgidff157g911vh0lie86qo3jlf5jos3l6cbblidubcpvrno8ghp13gi9disrme5m4o6n811io39bd28kr39srp00
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925355::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/avanzado
+SESSION: 
+-->id: qo70gc22114ger2u9k8d0bb5ijsuohnstggvcli9vpi6nsjhssmkqr68j2a0ugd1o4heoih3r0hj5j8v1cl9b79tj5dsdkpdo0si7p1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925356::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/basico
+SESSION: 
+-->id: sqvd7a79b9sov5pf9dlf100eqqca6hjudiq4bltnq0j8fmkun8sat7ticrp1sh1pkda8tsk7ma0dc7meb1qhrj31uvc83akj1cvnie3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925358::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/codigo
+SESSION: 
+-->id: 176cfvgmi0sgiji29f7prfum08coiv3tp4o1h6lga1qd1rj6f20pg5t2rhinjh94962mhm1v36lrmagcpcqjmbtae3n343dftguhnm2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925400::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/cuento
+SESSION: 
+-->id: 97ue8ds7pu2o54ln57a5k75kcfceflnhk36ei61hdp02a5160ih9mhe9cbucit2tbhat8k83i930v444o3cmr8q1msi39kst4tdru01
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925402::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/dba
+SESSION: 
+-->id: 6lprc58tfdcugomofd5lna5rdeaacur5432otcf6o1i3ijhgruigansksbkrpdc3ormkdqmejhsojo10dcab87d6l5gnkev2g7kons1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925404::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/desarrollo
+SESSION: 
+-->id: nijqo42jo1afj0q3t4vgfj46m4djk9chj88lntgbg2n0iu0dsgvkm1so3tn4r689r99165l21tppcq01iu70qj6ski8eecitj3sthr1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925406::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/estructura
+SESSION: 
+-->id: ojjevl72oc5nntpcpartcq4rra4iah4tlattg1qdgrlv27bshs9opa5vhj9b51s358n5svjplbpa6q4d7ao36n108td2cgs6df2bvr1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925408::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/git
+SESSION: 
+-->id: d4t7co6qv51lbocik0q2as2c2tpv9pj1ntjpa951cg7u7uvjj9m8cbpsu3jjd0f1v36qcp9qk9islv4utf1cgt4v2gs16la8siilpb2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925410::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/guia
+SESSION: 
+-->id: ottdrpbgh8psboilulett3nk37oc9g58b0nk89q7og2flhjgfm543tkrt7aq0s1l5iqqhv8m6s74ipskvp949sor1rubs1ja6p1bsa0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925413::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/html
+SESSION: 
+-->id: r1qk833ogll4vaep6ms81t9fgacd0mp758lqi4fjl53rdikm7vb4im9b16efevcc32omeori0hfs3vfeibg8ikv4il0mcm7744jhel2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925414::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/linux
+SESSION: 
+-->id: unaactb408l2r270fj2nvrkvq0tt2m6ei5ofegf14nuibbv3hj8gag0kanouc0beg9mjuoifrokmo03o8kv96psiao01ptehrgv0ng3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925416::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/magento
+SESSION: 
+-->id: ga3ir4f3537tq1227atgk62lfu176t2rreg9dn5ppeliq3gtmd3a5d38jpm7iumqmk1ev259dlpb4eb54rresn62sp2082p508oa572
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925418::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/musica
+SESSION: 
+-->id: ss1hddrqn3o9f1je1u5p0q4thqtij11ol5of366v77j229bcfiq9lo59ks5va7cl5oh790n6n7u18ubnu4ma7e14d4ikf3olelfnnj0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925420::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/nodejs
+SESSION: 
+-->id: 2b9l4dv62ki3mp8627qavdf39qtjvd4c3hnr57hil480501renedumqrqja8pgsm369astgqivhovak09s208ev5mskte2iulnigsg0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925421::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/nogeek
+SESSION: 
+-->id: pf7kh74vman2d5eonf95gg1ltec4m3iu6mdlvjv5q5k85b79ierkhjt9gpv2hk3hqd9eeb192317idnj6m2idt8lrik2uijq097qn50
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925424::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/nogeeks
+SESSION: 
+-->id: tj3coj9el1sl6lb66j1a6hu3dd3jaeq2652b1ecrsqj1oqrdsa2r5k21os7opost2obn7dnocp5p2mbog83elcsmg1v7p3b14qinth2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925426::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/nube
+SESSION: 
+-->id: jakgtaa3smok89vfm27n6memnid18i9ir8696f5vbktv7bopb33b56ln27t7ivc2p5hrdbft4pkotdd66eb01ppkb66oca1ivenrlm2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925428::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/ph
+SESSION: 
+-->id: cq5lfsn3p30uo4fu3hbsc9lg9isn5qherhocd1k5td5hiimlc1smuv5ls2h519ckrrjrbh58ncll56vk69c5483i7574sfogrhjn8s2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925430::La clase Controladores_Musica no existe :: Controladores/Musica.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_M...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_M...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/musica/escucha/1043dc9f153422a9f246c67c478fc8c4
+SESSION: 
+-->id: qoat8mb5puivlhnoufvkijtisbb8kr9a0ijkd5tah1iuorif2gqimh5h292bif8443mf1qv7tslqt3qusvqpt61rbo6h9ho8lmenia1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925432::La clase Controladores_Musica no existe :: Controladores/Musica.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_M...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_M...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/musica/escucha/25440ab49b64c227d003f337c18dcfb3
+SESSION: 
+-->id: 3c2biibmd37kfe265f4rhi8nk57prdqa0prr1msu17een0o711u29aqv1rfpennbqjod26p3riuh5t3bfqfsaar3tisva9q1gimv0a2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925434::La clase Controladores_Musica no existe :: Controladores/Musica.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_M...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_M...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/musica/escucha/e0c4295436b951184a80d9511c840ad9
+SESSION: 
+-->id: beu1lfb8p1k06f6b8unotktdlf2f2n1eil21d1v6qcj326o39s2oth00grvn7gl34ap39i0g10bd1emnv5d6pitadm33qv4trkrhbc0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925442::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/basico
+SESSION: 
+-->id: uppbai7a058k933ihkjkc3tuar7i7glemjlanjisackqoveocbioq9pu741q6o030mckdr4i46j37q2vt0j6uv9fsvp1bs5p2ldt2e1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 760f5c20c72956a48e2688139b467749
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925446::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/git
+SESSION: 
+-->id: sr8bl30sijqoi9ale6oqh6lkvgftt5g3tlf3jk3auuj7vfc618qj0k1pg40hl66otlgh52ntj3njraget0o5l4emoitohkc57eac773
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072925450::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/guia
+SESSION: 
+-->id: ck1c8f5e7sv87ah2ehasmqnviei7999nbvpht2uvfsrnqrhjv2er469i79ab3d06j35lt9nva921tu8bbno7773uac5ods7tg9im2s1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 1ea9b30a00a484f04f3df8684f32fe11
+IP: 51.254.131.244 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072943743::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/quees
+SESSION: 
+-->id: sn35hl1vgvcu6ji9c94bu7t2qo2m3nnu3aqiq9srm7g9ji2s9rbg685m6aj8n50ibech75vkijnoo299kvjm6vnpo5gjdldpdek0ve0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = f25b911938d46f4090d51a2e642809e0
+IP: 178.6.246.231 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+072943745::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/tip
+SESSION: 
+-->id: ehunfo6ulcionc2pmif49p2b4a8ujkpbsashoen0e7i2h35cc0niol7jcjv524732jjqf4ddv1i02mh9bgh25q4vi54ad10chrauv90
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = f25b911938d46f4090d51a2e642809e0
+IP: 178.6.246.231 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0729134105::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/php
+SESSION: 
+-->id: afofckugbfmb59k0teu1astge6dt61ecgmktqhnn6se034en5ppg92p7r886tbrffp7e6ve3j76ha34gutrb4mmnsoo2nj5otf67q41
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = cef485c12a8b497a962e7950ccd30ac4
+IP: 62.210.148.246 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0729134135::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/quees
+SESSION: 
+-->id: lo3fh2at0sqrq2o7b5ba6c9ub5ahh43shjgqtj5jn8ad5o6cf7addlitbsfc34odn85q8nqi0b74spkun8ngf09krsc2iddmoiqgag1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a3eda53f774a593994c705413120383a
+IP: 62.210.148.246 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0729134145::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/tip
+SESSION: 
+-->id: a5cvk2kub1d9p1h1ed55gf55a0vt9e001d69tmt4c4vvjlpg0ahoeivqctvc2j4er243ifllsc9fck5h3t0m3j5rel2jehqenbvi6o3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a3eda53f774a593994c705413120383a
+IP: 62.210.148.246 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0729141206::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/musica
+SESSION: 
+-->id: bl946cirapr7hpld6dtfvoeh3j18cbmbsma55fb4g2hqat8m3ecie84lbef5n4kler688jebkarn0cghfqserqjm5056j8hr1vjjls1
+-->data: 
+-->-->__browser = Google Chrome
+-->-->__token = ff11771abbfcebdc161bdc634add58d4
+IP: 144.76.71.83 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0729150002::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/basico
+SESSION: 
+-->id: bsulltt6a90jiviolkjafljr7dmp8gfrmvkn7el9c4l5vuhd100angubjebjeg10frnpuvdjiph7ni6cq2msj73n98033s0hjolv743
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 8cd1513d54e51e2a2fd779241e3f4cb8
+IP: 213.251.184.38 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0729150006::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/git
+SESSION: 
+-->id: 18dee4fksqmdob0ais1d6m13nop2sp1c0g0ckianr4dd361v3huh91jslhger7vc96vfe0vomfjflmrn8bp29vbh8qkqfh94iqitta3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = d7ab814aab8dab9672cdcbf054c75c0f
+IP: 213.251.184.38 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0729150009::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/guia
+SESSION: 
+-->id: btqj4mkhaectq2urtn6p15mqckiikaba0dno4mjekbi8r8u5bmrun705lukre0dgl7br5oq7k16csci85q4mp0a3cp2sfuta7dvh160
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = d7ab814aab8dab9672cdcbf054c75c0f
+IP: 213.251.184.38 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0729164645::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: blk5bhjto9446mc749goisoou6nnf61jdv7f80r5asgrkqnq3i4beffk3f8a7pkk9uqeglbvuba6kp6g4uqrcqo3lj6jh4qj7tae7i0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = f25ac7f98c1660e822e3451e930ea682
+IP: 199.16.156.124 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0729232814::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: e0jbi7d4b3pslee3m9kqubsv43d453jmalmv1kqfp7qc4cr0nj27gr5dbusnq0p1bldgc6tt3uvjpoq245fnvc2akt3nufvu4i5d4j3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = f63ff395fe23e1596cbbfcb8d75086cc
+IP: 199.59.148.211 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073012002::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: 08q4po51ic0tf7osqhc1pbte2k3ku55lm7jtfo0caic0tjri66vo2onk4nes7l094g1f3947aalh6t24hakgrn7doqfqreb0t3qro43
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 42d97cba32c9a7027627ea04ec4a79d9
+IP: 66.102.6.155 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073012002::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: n8208doe7v382km7ii5pn0cje887e5n7pmv072okdjci7kmr8hdl19sqcl925qb7qmf9v5b3iugebd3vksk9kbc0e3r9h8nufnegog0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 9bf2bf10d40aca4bd9864ea8ef78f340
+IP: 66.249.84.227 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073012003::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: rrs2hla7p5i2n5q4m1crfo7ho7ms4to47gv3eqsi9347eh9gebsqhn3s8svo2vjugq2vgksc7u5r1ktlijfd7t8dtqi4170mshnb440
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 5fe672e063a92fd757604d83bc5bc311
+IP: 74.125.80.97 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073052320::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/nogeeks
+SESSION: 
+-->id: 6vm21gcot6qnmmmqjumjrjgbs7juj75dig3u91sjit5ied9c90tp63tocp5ntfkogrf5k46593ejndtbvq85c0aahbgks0mg3tdljd2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 48d896f39ebdb1a334e706642c49dece
+IP: 40.77.167.105 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073072842::La clase Controladores_Modules no existe :: Controladores/Modules.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_M...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_M...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/modules/vtemslideshow/uploadimage.php
+SESSION: 
+-->id: t6ipbnsos8qals41ke03mbgmknn10c69n3na64usc1hni05fs5hpqh0ld39eg3itorlfla270p9k5fph49j2ftpfr06mei28lgu9qo3
+-->data: 
+-->-->__browser = Google Chrome
+-->-->__token = 67cc22fc8b1944c7e00aaddde29dae3a
+IP: 62.210.162.209 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073081552::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/git
+SESSION: 
+-->id: vds51mei6p2npebnh8ggojlovslj8gi3lsstd3hg3t8u0afpm2h0i0kqbbp91cc8qdeckuoa6qvmrcudiq1dol46t3h3e26prskn1k1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 77fa776415348481ae7a873a3c82f49d
+IP: 173.208.157.186 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073083519::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: mt1kmchknu2j7vjqcvbjtshhcj8tg9v5bvs85ttvein0n9l0pd2n622k6mbtuktgoci4h3uh0te3p3ku1vv9qdnctava3otmhcj20v1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = c4ed4261c346a7fd973a01622e3d8063
+IP: 199.59.148.209 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073100337::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/apps
+SESSION: 
+-->id: qf41mbeduc525eett8662ncdo2dse8lhdgveubkebr0ujo5oe9128ccrd67v8hoqqpbho9rbpi0coerj32hksuou7ok6a0fj7k2bg92
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 9c818685f45db87cf2ac71452a8735a7
+IP: 62.210.97.48 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073100339::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/php
+SESSION: 
+-->id: lelf0t1e4kbdvqvm03benrdvehei4ov9d88f8446t36epc0mfg79qqv9b71jseqal7d4ge3k7v7882v7fne08hl57v32tb3rhv4jdj3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 9c818685f45db87cf2ac71452a8735a7
+IP: 62.210.97.48 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073100348::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/magento
+SESSION: 
+-->id: kgnlj96amcnpsvs0af89d6dn5aq07g6j1n3t1pols302tv3k5uaj5kgr2psie8nmn6ghdlfamp3d3g5dsaors7b4pl1j97gi11884u1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 8632ec8518ca72e40a27dc0335a5030e
+IP: 62.210.97.48 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073100355::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/quees
+SESSION: 
+-->id: 6u57slhush51tqdc4k80gsuplnr9pi9dck8caj2u77kn7sj12dap74j938fgptr4a5mbdr06vfgku04n7ddqfdl9p7087v0elmic5i3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 9c818685f45db87cf2ac71452a8735a7
+IP: 62.210.97.48 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073102003::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: 8hrkops5octptpp7igi3ieidrqt4i25n7q0g5fdmgg6ofdlmleeo5453lcp77oemgbcngs4c3ngvi6krfkt4btldjaf1cnr393j5nl0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = b6f0bb5b4c92529fe88e264ef616890e
+IP: 66.249.83.219 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073102003::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: 6jcllc85j1vsmjraua7eeesn55ebgel4rll3t2ohtqqgfouh0u9bovibvdtanktoc79e4oge5081dpaehcto7qt6i4je7ak9967ruf2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 42d97cba32c9a7027627ea04ec4a79d9
+IP: 66.102.6.155 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073102003::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: soc68anr6hqt3eq4tq4f4ishf697d6g4ackvrjviod94l9396un1cvdhv9v5tmct7sblmh9clc794uiqiqntau8j553bqncpg5v7103
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 87ecf4c9995a8c78949dd0639aa31369
+IP: 74.125.113.97 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073124537::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: t2a0m0io4e81rh5ba33r0f00murk4va20p80128sh0d0hln959uchjhb59t08sdohgribu42ki4m4m7jk57015pnpu9931q9c6vcn81
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = c4ed4261c346a7fd973a01622e3d8063
+IP: 199.59.148.209 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073144406::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/banner.jpg
+SESSION: 
+-->id: ascgf60hr1m0vjs9pei8dhef6gjbftccu64fthh26q4m5pmikvdsci6rnerdtc2gfe7gqog03euijd9pipnkbk45olk283cotehlb02
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 65818ef3fe8fec21eee76c4098752889
+IP: 93.158.152.14 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073163113::La clase Controladores_Html no existe :: Controladores/Html.php(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/_base.php::62
+-->--> #0 [internal function]: {closure}('Controladores_H...')
+#1 /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php(45): spl_autoload_call('Controladores_H...')
+#2 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#3 {main}
+
+URL: http://ivanmiranda.me:80/html/images/blog/{post_imagen}
+SESSION: 
+-->id: 1p23u544rsv45ecai57un194rf22hrp5p0vj7onfljfohouciprfum4rp0atd7i4lfeqpj77a6f3t22pdlgrq9ot34gldkckdgqgen0
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 65818ef3fe8fec21eee76c4098752889
+IP: 93.158.152.14 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073172836::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/quees
+SESSION: 
+-->id: 0fg0tkvnr7bh58b434p4il7snv3dgc3dl1e1qp14kej6lh385olf2j8dn59pv7kqn72ea9d4ptpgldroh5hsn988604318o732ripn3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = d6de5669e69caf68b862c30c037c808e
+IP: 138.201.127.112 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+073172838::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/tip
+SESSION: 
+-->id: u97mnr8jm2tusth485cft5tsptp0asisvnkbp1grq0rdqhuj77fh1s39bcpinvflguoph79bh8hh23tn4r4g7pss9shk1h3a276i091
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = d6de5669e69caf68b862c30c037c808e
+IP: 138.201.127.112 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0731102953::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/basico
+SESSION: 
+-->id: 5fanmsj0cm6logb6eri56ok8a732ustb2a97mf6h6eae6arkkd5m8s65sh9m81hsvefu5tp8cjg88lg2b9vunktv03tl1o85o2k4ih1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = cef485c12a8b497a962e7950ccd30ac4
+IP: 62.210.148.246 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0731102958::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/git
+SESSION: 
+-->id: kqeq54obvq6njjg2qh0grcuh44hek2tcb0hif3ssvibahkqcicdi2p81tsqv3m01i22tsp2a9r8kgt6na73br07bdgacdjlfgbqgl23
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a3eda53f774a593994c705413120383a
+IP: 62.210.148.246 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0731103003::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/guia
+SESSION: 
+-->id: 4o3opiu0spq26b86kcl5t5ae54dadolattt4fmqiso3phl6opoucb17tf96nmcsvmdlvp4aqpafjqb2sj2r2sd6cvnc9670ng61prd1
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a3eda53f774a593994c705413120383a
+IP: 62.210.148.246 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0731124530::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/basico
+SESSION: 
+-->id: 8psrshptta9blmpnaavo47ckg2jb42kqf04kt7j85mh6aqmtbbpmv7fg7kksh4j9nigj82v9il52enabh0kdudnpn1dm401ocui6242
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 0175fd2ffc5c8b15c40d38f5a2e7f8e2
+IP: 5.9.89.170 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0731124532::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/git
+SESSION: 
+-->id: ns5dhh9afuanr88vl06edmdncs3ic275t66skbrn910gplpdfpln9dih3u6tmc6po3878cj6mqbhfd5o584r3cf01galtql5pq3t140
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 0175fd2ffc5c8b15c40d38f5a2e7f8e2
+IP: 5.9.89.170 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0731124536::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/guia
+SESSION: 
+-->id: 8i65na1dol1im8kr4ovtjvqa4o6uh5ij8lth9cqfsq02hn999rvtgps5rjotcpldem8tf1k6kq277pbau5rgu1s4e2ppo1sn8grrm03
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 0175fd2ffc5c8b15c40d38f5a2e7f8e2
+IP: 5.9.89.170 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0731162755::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/php
+SESSION: 
+-->id: r0gvhlpf36qh5qv337lo1vuj3tvgqd70sv8mqcork5omfuncgmoc3uo3pu6uaosglrskhveis9dhj26ngui9funlrr4kklgacbsher2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a863fcaab482eb2f6306adf1f9dda699
+IP: 173.234.153.122 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0731162759::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/quees
+SESSION: 
+-->id: atj9nmrgeujnb95sf153obdaebd5eh64j11oml0fvc66apua4mnn3gv6opsje1s4t02cf4uaifggvmj411uaube10mk2pa1on3opkj2
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a863fcaab482eb2f6306adf1f9dda699
+IP: 173.234.153.122 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0731162804::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/tip
+SESSION: 
+-->id: ksd5ua5mch1vhg0ukoccgeplsmo3v4897kq0ju34fo5gum1etgj38bfcmcvjqqn39vga6chdq4v8r62um8efm0p948mgnlaqh67m8h3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = a863fcaab482eb2f6306adf1f9dda699
+IP: 173.234.153.122 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0731170055::La accion etiqueta no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/etiqueta/desarrollo
+SESSION: 
+-->id: q4mekpab34k62jakjfdenn4p7ggsn3jdb13h68f08l91fi8o0cjpjnc4a3bak16ql97h255prfe269lkq5elb0dvh6pbkppj78q8n80
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 7f742f6f2230553c489c76de45eb6433
+IP: 157.55.39.37 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0731231958::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: 363q93j5hc2m3urobp0a0vron3a5c1ur63kgs2pn6btu9td2o8vj666vhev84hdlpnjs17gto74ikl0o7hhi5ru2a1vc1sfqfd3jr02
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 42d97cba32c9a7027627ea04ec4a79d9
+IP: 66.102.6.155 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0731231958::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: amq6kj7a1giah2a9bd2qmprvtoeb9t8gnf3f4jie10h6lcvvu7d0ac5fm8vq9jbkpns9ga6n1i2cr4g9sbsp27mfd1ga26i28hkrj03
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 01582fba9e7343d5c9e990b7afa5b8f0
+IP: 66.249.83.215 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
+0731231958::La accion rss no esta definida en Controladores_Blog(1)
+--> /var/www/dominios/ivanmiranda.me/sitio/Sfphp/Disparador.php::49
+-->--> #0 /var/www/dominios/ivanmiranda.me/sitio/index.php(38): Sfphp_Disparador->__construct()
+#1 {main}
+
+URL: http://ivanmiranda.me:80/blog/rss
+SESSION: 
+-->id: pl4eh9s8quonrqg7m1rs445tloehjuodoic9jafvpc0cnra57ak5jqhlor8413gasilcl9scc2frlr2jtu2evidtsc4hjcbfmuhqbj3
+-->data: 
+-->-->__browser = Unknown
+-->-->__token = 6088b0e09e3261f31163cb4d78f4268e
+IP: 173.194.95.33 - PHP 5.5.9-1ubuntu4.17 - Linux(/etc /usr/sbin/php5-fpm)
+--------------------------------------------
